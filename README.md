@@ -36,6 +36,7 @@ Também possuo experiência com:
 
 ### 📁 Projetos
 
+- [Portfólio](https://github.com/Weslecyto/projeto-portifolio) — Portfólio moderno com navegação, foto de perfil e layout responsivo, feito com HTML, CSS e JavaScript.
 - [Museu Nacional](https://github.com/Weslecyto/projeto-museu-nacional) — Projeto sobre o Museu Nacional com layout responsivo e design moderno.  
 - [Notícias da Cidade](https://github.com/Weslecyto/projeto-noticias-cidade) — Portal de notícias local com atualização dinâmica de conteúdo.  
 - [Projeto Parallax](https://github.com/Weslecyto/projeto-parallax) — Site com efeito parallax para uma experiência visual mais imersiva.  
